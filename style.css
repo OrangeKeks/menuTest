@@ -1,0 +1,41 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body
+{
+    width: 100%;
+    overflow: hidden;
+    
+}
+a
+{
+    text-decoration: none;
+    color: #BBD3FC;
+}
+header
+{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    padding: 5px 20px;
+    background-color: #0E51A7;
+}
+.logo, .ling, .menu-icon
+{
+    color: #6997D3;
+}
+.menu
+{
+display: flex;
+
+}
+.link
+{
+    margin-left: 50px;
+}
